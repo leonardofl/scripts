@@ -1,1 +1,3 @@
-find . -name '*.py' | xargs cat | grep pattern -n --color
+
+find . -name '*.py' | xargs grep -n -H --color pattern
+
