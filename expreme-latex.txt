@@ -1,0 +1,4 @@
+Quando tiver um parágrafo cuja última linha só tem uma palavra, colocar no fim do parágrafo pra tentar ganhar uma linha de espaço:
+
+\looseness=-1
+
